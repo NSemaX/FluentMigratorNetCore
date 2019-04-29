@@ -1,0 +1,10 @@
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\bin\Debug\netcoreapp2.2\FluentMigratorTest.deps.json
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\bin\Debug\netcoreapp2.2\FluentMigratorTest.runtimeconfig.json
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\bin\Debug\netcoreapp2.2\FluentMigratorTest.runtimeconfig.dev.json
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\bin\Debug\netcoreapp2.2\FluentMigratorTest.dll
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\bin\Debug\netcoreapp2.2\FluentMigratorTest.pdb
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\obj\Debug\netcoreapp2.2\FluentMigratorTest.csproj.CoreCompileInputs.cache
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\obj\Debug\netcoreapp2.2\FluentMigratorTest.AssemblyInfoInputs.cache
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\obj\Debug\netcoreapp2.2\FluentMigratorTest.AssemblyInfo.cs
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\obj\Debug\netcoreapp2.2\FluentMigratorTest.dll
+C:\Users\nkudu\source\repos\FluentMigratorTest\FluentMigratorTest\obj\Debug\netcoreapp2.2\FluentMigratorTest.pdb
